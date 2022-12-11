@@ -1,5 +1,5 @@
 
-# Open XG
+# Open XG 
 
 A open source project to develop live xG prediction models 
 from photo and video input using Computer Vision. 
