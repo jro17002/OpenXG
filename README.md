@@ -34,7 +34,7 @@ Luckily we have standarized anchors that we can use to transform our photos to c
             <p> Base Image, with Anchor Points </p> 
     </center>
 </td>
-<td> <img src="./visualizations/input_pts_vis.png" alt="Drawing" style="height: 250px;"/> 
+<td> <img src="./visualizations/input_pts_vis.PNG" alt="Drawing" style="height: 250px;"/> 
     <center> 
             <p> Input Image, with Input Points </p> 
     </center>
