@@ -58,6 +58,11 @@ After using the input and anchor points we get the following transformed image w
 </tr></table>
 </center>
 
+Full transform visualization:
+<center>
+<img src='./visualizations/transform_vis.gif' width= '720'/>
+</center>
+
 See [perspective_preprocessing.ipynb](https://github.com/jro17002/OpenXG/blob/master/perspective_preprocessing.ipynb) for code.
 
 </details>
